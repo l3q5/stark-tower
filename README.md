@@ -1,6 +1,5 @@
 # Stark Tower - Sistema de Gerenciamento de Visitantes
 
-Desafio Projeto22
 ![Challenge](challenge.png)
 
 ### Pré-requisitos
